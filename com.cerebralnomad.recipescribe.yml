@@ -71,6 +71,6 @@ modules:
       - install -Dm644 rc_256.png /app/share/icons/hicolor/256x256/apps/com.cerebralnomad.recipescribe.png
     sources:
       - type: archive
-        url: https://github.com/cerebralnomad/Recipe-Scribe/releases/download/v2.0.1-stable/recipe_scribe_2.0.1_flatpak_source_files.tar.gz
-        sha256: 0636038d8703bec723ab74a0e2e28e04243da1568d7c2edef828947f1b8480e7 
+        url: https://github.com/cerebralnomad/Recipe-Scribe/releases/download/v2.0.1-stable/recipe_scribe_2.0.2_flatpak_source_files.tar.gz
+        sha256: 89c50df7709bce87b93cf4fdcc8cd75d74b0ecc9de4d4f4351cb7171fa2cf4d1
 

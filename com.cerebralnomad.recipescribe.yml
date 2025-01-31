@@ -7,7 +7,7 @@ command: recipe_scribe-2.0.1.py
 finish-args:
   - --filesystem=home:rw
   - --socket=x11
-  - --share=ipc 
+  - --share=ipc
 
 modules:
   # Include Tkinter
@@ -49,8 +49,8 @@ modules:
           - /man
         sources:
           - type: archive
-            url: https://prdownloads.sourceforge.net/tcl/tk8.6.14-src.tar.gz
-            sha256: 8ffdb720f47a6ca6107eac2dd877e30b0ef7fac14f3a84ebbd0b3612cee41a94
+            url: https://prdownloads.sourceforge.net/tcl/tk9.0.1-src.tar.gz
+            sha256: d6f01a4d598bfc6398be9584e1bab828c907b0758db4bbb351a1429106aec527
             x-checker-data:
               type: anitya
               project-id: 11426
